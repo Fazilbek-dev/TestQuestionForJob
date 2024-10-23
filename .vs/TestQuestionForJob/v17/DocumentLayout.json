@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\TestQuestionForJob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81374624-9977-485F-CF36-9E6FEA631EBD}|Assembly-CSharp.csproj|D:\\GitProjects\\TestQuestionForJob\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81374624-9977-485F-CF36-9E6FEA631EBD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81374624-9977-485F-CF36-9E6FEA631EBD}|Assembly-CSharp.csproj|D:\\GitProjects\\TestQuestionForJob\\assets\\scripts\\objectpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81374624-9977-485F-CF36-9E6FEA631EBD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81374624-9977-485F-CF36-9E6FEA631EBD}|Assembly-CSharp.csproj|d:\\gitprojects\\testquestionforjob\\assets\\scripts\\dooropen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81374624-9977-485F-CF36-9E6FEA631EBD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dooropen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81374624-9977-485F-CF36-9E6FEA631EBD}|Assembly-CSharp.csproj|d:\\gitprojects\\testquestionforjob\\assets\\scripts\\doortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81374624-9977-485F-CF36-9E6FEA631EBD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoorTrigger.cs",
+              "DocumentMoniker": "D:\\GitProjects\\TestQuestionForJob\\Assets\\Scripts\\DoorTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorTrigger.cs",
+              "ToolTip": "D:\\GitProjects\\TestQuestionForJob\\Assets\\Scripts\\DoorTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorTrigger.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:53:29.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorOpen.cs",
+              "DocumentMoniker": "D:\\GitProjects\\TestQuestionForJob\\Assets\\Scripts\\DoorOpen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorOpen.cs",
+              "ToolTip": "D:\\GitProjects\\TestQuestionForJob\\Assets\\Scripts\\DoorOpen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorOpen.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:42:56.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectPickup.cs",
+              "DocumentMoniker": "D:\\GitProjects\\TestQuestionForJob\\Assets\\Scripts\\ObjectPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectPickup.cs",
+              "ToolTip": "D:\\GitProjects\\TestQuestionForJob\\Assets\\Scripts\\ObjectPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectPickup.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:01:56.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\GitProjects\\TestQuestionForJob\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\GitProjects\\TestQuestionForJob\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:48:08.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
